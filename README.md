@@ -1,5 +1,5 @@
 <h1 align="center"> </🖤 Kardoxa>  
-<img href="https://discord.com/users/1017017120107806770" src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&pause=1000&color=F70B0B&center=true&vCenter=true&multiline=true&width=435&lines=Kardoxa;You+can+contact+me+for+order+or+support." alt="Kardoxa" />
+<img href="https://discord.com/users/1017017120107806770" src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&pause=1000&color=F70B0B&center=true&vCenter=true&multiline=true&width=435&height=70&lines=Kardoxa;You+can+contact+me+for+order+or+support." alt="Kardoxa" />
 </h1>
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=CA05C3&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Social+Media's" alt="Typing SVG" /></h2>
 <p align="center">
