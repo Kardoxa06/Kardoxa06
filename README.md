@@ -1,7 +1,7 @@
 <h1 align="center"> </🖤 Kardoxa>  
 <img href="https://discord.com/users/1017017120107806770" src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&pause=1000&color=F70B0B&center=true&vCenter=true&multiline=true&width=435&height=70&lines=Kardoxa;You+can+contact+me+for+order+or+support." alt="Kardoxa" />
 </h1>
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=CA05C3&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Social+Media's" alt="Typing SVG" /></h2>
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=New+Amsterdam&duration=1&pause=10000&color=F70B0B&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=70&lines=SOCIAL+MEDIA" alt="Kardoxa" /></h2>
 <p align="center">
  <a align="center" href="https://discord.com/users/928259219038302258" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a align="center" href="https://www.github.com/Bes-js" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
