@@ -12,7 +12,7 @@
 
  
 
- <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=18CA1F&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=Langauge's+%26+Tool's" alt="Typing SVG" /></h2>
+ <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&duration=1&pause=10000&color=F70B0B&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=70&lines=Software+languages+i+use" alt="Kardoxa" /></h2>
  <h2 align="center">
  <img src="https://skillicons.dev/icons?i=cs,js,ts,lua,html,css,nodejs,mysql,sqlite,mongo,redis&theme=dark" />
  </h2>
