@@ -3,13 +3,12 @@
 </h1>
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=New+Amsterdam&duration=1&pause=10000&color=F70B0B&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=70&lines=SOCIAL+MEDIA" alt="Kardoxa" /></h2>
 <p align="center">
- <a align="center" href="https://discord.com/users/928259219038302258" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a align="center" href="https://www.github.com/Bes-js" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://top.gg/bot/854463472318677022"><img src="https://top.gg/api/widget/servers/854463472318677022.svg"></a>
-  <a align="center" href="https://open.spotify.com/user/vwuht447wffml59xtfokakivv?si=26736c6f81d34c45&nd=1" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
- <a align="center" href="https://www.instagram.com/_berknt" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a align="center" href="https://discord.com/users/1017017120107806770" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a align="center" href="https://www.github.com/Kardoxa06" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a align="center" href="https://open.spotify.com/user/31ofnmt2et37gl76ba45flfhju3e?si=4724eda820e044f1" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+ <a align="center" href="https://www.instagram.com/ozerks06" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <br> </br>
-<a href="https://www.buymeacoffee.com/beykant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120px" height="30px" alt="Buy Me A Coffee"></a>
+<a href="https://www.bpdev.com.tr" target="_blank"><img src="https://bpdev.com.tr/images/kardoxa.png" width="120px" height="30px" alt="website"></a>
 
  
 
