@@ -8,7 +8,7 @@
   <a align="center" href="https://open.spotify.com/user/31ofnmt2et37gl76ba45flfhju3e?si=4724eda820e044f1" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
  <a align="center" href="https://www.instagram.com/ozerks06" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <br> </br>
-<a href="https://www.bpdev.com.tr" target="_blank"><img src="https://bpdev.com.tr/images/kardoxa.png" width="120px" height="30px" alt="website"></a>
+<a href="https://www.bpdev.com.tr" target="_blank"><img src="https://bpdev.com.tr/images/kardoxa.png" width="100px" height="100px" alt="website"></a>
 
  
 
