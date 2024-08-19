@@ -14,10 +14,10 @@
 
  <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&duration=1&pause=10000&color=F70B0B&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=70&lines=Software+languages+i+use" alt="Kardoxa" /></h2>
  <h2 align="center">
- <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,mysql,sqlite,mongo&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=cs,js,ts,lua,html,css,nodejs,discordjs,mysql,sqlite,mongo,redis&theme=dark" />
  </h2>
   <h2 align="center">
- <img src="https://skillicons.dev/icons?i=stackoverflow,vscode,visualstudio,sublimetext&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=sublime,stackoverflow,vscode,visualstudio&theme=dark" />
   </h2>
  
  
