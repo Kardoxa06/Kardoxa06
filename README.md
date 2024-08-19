@@ -14,18 +14,11 @@
 
  <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&duration=1&pause=10000&color=F70B0B&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=70&lines=Software+languages+i+use" alt="Kardoxa" /></h2>
  <h2 align="center">
- <img src="https://skillicons.dev/icons?i=cs,js,ts,lua,html,css,nodejs,discordjs,mysql,sqlite,mongo,redis&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,discordjs,mysql,sqlite,mongo&theme=dark" />
  </h2>
   <h2 align="center">
  <img src="https://skillicons.dev/icons?i=sublime,stackoverflow,vscode,visualstudio&theme=dark" />
   </h2>
- 
- 
-  <h2 align="center">
- <img align="center" alt="Yarn" width="40px" src="https://cdn.discordapp.com/emojis/1077712529301721149.png?size=128&quality=lossless" />
- <img align="center" alt="ChartJS" width="40px" src="https://cdn.discordapp.com/emojis/1077714784335700058.png?size=128&quality=lossless" />
- <img align="center" alt="Json" width="40px" src="https://cdn.discordapp.com/emojis/1077716034234097744.webp?size=128&quality=lossless" />
- </h2>
 </br>
 
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=FF0000&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Reference+'s" alt="Typing SVG" /></h2>
